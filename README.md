@@ -11,20 +11,18 @@ You can call me David, but I'm used to catdesu online. I'm a Software Developer 
 # Skills
 ## Web development
 ### Languages
-- HTML
-- CSS
-- TypeScript
+- HTML, CSS
+- JavaScript, TypeScript
 - PHP
 - SQL
 - Python
 - C#
 
 ### Frameworks
-- Bootstrap (5)
+- Bootstrap 5
 - Angular
 - CodeIgniter 4
 - Flask
-- Asp.NET
 
 ## Databases
 - MySQL / MariaDB
