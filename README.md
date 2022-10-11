@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hey ! 👋
 
-<!--
-**catdesu/catdesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me David, but I'm used to catdesu online. I'm a Software Developer Apprentice.
 
-Here are some ideas to get you started:
+# I like
+- Cats
+- Nuclear physics
+- Video games
+- Anime / Manga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+## Web development
+### Languages
+- HTML
+- CSS
+- TypeScript
+- PHP
+- SQL
+- Python
+- C#
+
+### Frameworks
+- Bootstrap (5)
+- Angular
+- CodeIgniter 4
+- Flask
+- Asp.NET
+
+## Databases
+- MySQL / MariaDB
+- MongoDB
+
+# Others
+## Softwares
+- MS Office
+- Postman
+- Paint.NET
+- Krita
+
+## Languages
+- :fr: French
+- :gb: English
+- :jp: Japanese (N4)
+
+# Links
+- [CV on GitHub Pages](https://catdesu.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/aeschlimann-david)
+- [GitHub](https://github.com/catdesu) ← You're here !
