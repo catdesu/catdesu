@@ -3,10 +3,10 @@
 You can call me David, but I'm used to catdesu online. I'm a Software Developer Apprentice.
 
 # I like
-- Cats
-- Nuclear physics
-- Video games
-- Anime / Manga
+- Cats :cat:
+- Nuclear physics :atom_symbol:
+- Video games :video_game:
+- Anime / Manga :crossed_flags:
 
 # Skills
 ## Web development
