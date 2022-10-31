@@ -29,12 +29,6 @@ You can call me David, but I'm used to catdesu online. I'm a Software Developer 
 - MongoDB
 
 # Others
-## Softwares
-- MS Office
-- Postman
-- Paint.NET
-- Krita
-
 ## Languages
 - :fr: French
 - :gb: English
