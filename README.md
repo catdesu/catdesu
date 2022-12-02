@@ -19,25 +19,31 @@ I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
 
 # Languages
 <div align="center">
-    <img src="assets/php.svg" title="PHP" style="margin-right: 15px;" width="100" height="100">
-    <img src="assets/typescript.svg" title="TypeScript" style="margin-right: 15px;" width="100" height="100">
-    <img src="assets/javascript.svg" title="JavaScript" style="margin-right: 15px;" width="100" height="100">
+    <img src="assets/php.svg" title="PHP" width="100" height="100">
+    &nbsp;&nbsp;&nbsp;
+    <img src="assets/typescript.svg" title="TypeScript" width="100" height="100">
+    &nbsp;&nbsp;&nbsp;
+    <img src="assets/javascript.svg" title="JavaScript" width="100" height="100">
+    &nbsp;&nbsp;&nbsp;
     <img src="assets/python.svg" title="Python" width="100" height="100">
 </div>
 <br>
 
 # Frameworks
 <div align="center">
-    <img src="assets/codeigniter.svg" title="CodeIgniter 4" style="margin-right: 15px;"  width="100" height="100">
-    <img src="assets/angular.svg" title="Angular" style="margin-right: 35px;" width="100" height="100">
+    <img src="assets/codeigniter.svg" title="CodeIgniter 4"  width="100" height="100">
+    <img src="assets/angular.svg" title="Angular" width="100" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="assets/bootstrap.svg" title="Bootstrap" width="100" height="90">
 </div>
 <br>
 
 # Databases 
 <div align="center">
-    <img src="assets/mysql.svg" title="MySQL" style="margin-right: 35px;" width="100" height="100">
-    <img src="assets/mariadb.svg" title="MariaDB" style="margin-right: 35px;" width="100" height="100">
+    <img src="assets/mysql.svg" title="MySQL" width="100" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="assets/mariadb.svg" title="MariaDB" width="100" height="100">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="assets/mongodb.svg" title="MongoDB" width="100" height="100">
 </div>
 <br>
