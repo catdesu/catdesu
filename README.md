@@ -38,3 +38,7 @@ You can call me David, but I'm used to catdesu online. I'm a Software Developer 
 - [CV on GitHub Pages](https://catdesu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/aeschlimann-david)
 - [GitHub](https://github.com/catdesu) ← You're here !
+
+## My stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=catdesu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catdesu&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
