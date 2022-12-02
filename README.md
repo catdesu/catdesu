@@ -7,8 +7,9 @@ I like cats :cat:, nuclear physics :atom_symbol:, animes :crossed_flags: and vid
 
 I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
 
-# Stats
+
 <div align="center">
+    <h1>Stats</h1>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=catdesu&theme=dark&background=1b1c19&hide_border=true" width="425" /> 
     <br>
@@ -17,8 +18,8 @@ I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
 </div>
 <br>
 
-# Languages
 <div align="center">
+    <h1>Languages</h1>
     <img src="assets/php.svg" title="PHP" width="100" height="100">
     &nbsp;&nbsp;&nbsp;
     <img src="assets/typescript.svg" title="TypeScript" width="100" height="100">
@@ -29,8 +30,8 @@ I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
 </div>
 <br>
 
-# Frameworks
 <div align="center">
+    <h1>Frameworks</h1>
     <img src="assets/codeigniter.svg" title="CodeIgniter 4"  width="100" height="100">
     <img src="assets/angular.svg" title="Angular" width="100" height="100">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -38,8 +39,8 @@ I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
 </div>
 <br>
 
-# Databases 
 <div align="center">
+    <h1>Databases</h1>
     <img src="assets/mysql.svg" title="MySQL" width="100" height="100">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="assets/mariadb.svg" title="MariaDB" width="100" height="100">
@@ -48,7 +49,8 @@ I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
 </div>
 <br>
 
-# Links
+<h1 align="center">Links</h1>
+
 - [CV on GitHub Pages](https://catdesu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/aeschlimann-david)
 - [GitHub](https://github.com/catdesu) ← You're here !
