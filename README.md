@@ -13,8 +13,6 @@ I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=catdesu&theme=dark&background=1b1c19&hide_border=true" width="425" /> 
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=catdesu&hide=contribs,stars&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-    <br>
 </div>
 <br>
 
