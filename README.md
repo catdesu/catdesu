@@ -1,20 +1,11 @@
 
 ## Hey 👋
 
-I'm a 3<sup>rd</sup> year software developer apprentice mostly working on Web Applications.
+I'm a 4<sup>th</sup> year software developer apprentice mostly working on Web Applications.
 
 I like cats :cat:, nuclear physics :atom_symbol:, animes :crossed_flags: and video games :video_game: 
 
 I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
-
-
-<div align="center">
-    <h1>Stats</h1>
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=catdesu&theme=dark&background=1b1c19&hide_border=true" width="425" /> 
-    <br>
-</div>
-<br>
 
 <div align="center">
     <h1>Languages</h1>
