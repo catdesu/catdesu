@@ -19,7 +19,7 @@ I speak 🇫🇷 🇬🇧 and a little 🇯🇵
 
 ### Frameworks
 <div>
-    <img src="icons/Angular.svg" title="Angular" height="40px" width="40px">
+    <img src="icons/angular.svg" title="Angular" height="40px" width="40px">
     <img src="icons/nestjs.svg" title="NestJS" height="40px" width="40px">
     <img src="icons/laravel.svg" title="Laravel" height="40px" width="40px">
     <img src="icons/codeigniter.svg" title="CodeIgniter 4" height="40px" width="40px">
