@@ -1,45 +1,45 @@
 
-## Hey 👋
+<h1 align="center">Hey 👋, I'm David</h1>
+<h3 align="center">A 4<sup>th</sup> year software developer apprentice from 🇨🇭</h3>
 
-I'm a 4<sup>th</sup> year software developer apprentice mostly working on Web Applications.
+I like nuclear physics :atom_symbol:, animes :crossed_flags: and video games :video_game: 
 
-I like cats :cat:, nuclear physics :atom_symbol:, animes :crossed_flags: and video games :video_game: 
+I speak 🇫🇷 🇬🇧 and a little 🇯🇵
 
-I'm from 🇨🇭, and speak 🇫🇷 🇬🇧 and a little 🇯🇵
+## 💬 About me
+### Languages
+<img src="icons/html.svg" title="HTML" height="40px" width="40px">
+<img src="icons/css.svg" title="CSS" height="40px" width="40px">
+<img src="icons/php.svg" title="PHP" height="40px" width="r0px">
+<img src="icons/javascript.svg" title="JavaScript" height="40px" width="40px">
+<img src="icons/typescript.svg" title="TypeScript" height="40px" width="40px">
+<img src="icons/python.svg" title="Python" height="40px" width="40px">
 
-<div align="center">
-    <h1>Languages</h1>
-    <img src="assets/php.svg" title="PHP" width="100" height="100">
-    &nbsp;&nbsp;&nbsp;
-    <img src="assets/typescript.svg" title="TypeScript" width="100" height="100">
-    &nbsp;&nbsp;&nbsp;
-    <img src="assets/javascript.svg" title="JavaScript" width="100" height="100">
-    &nbsp;&nbsp;&nbsp;
-    <img src="assets/python.svg" title="Python" width="100" height="100">
-</div>
-<br>
+### Frameworks
+<img src="icons/Angular.svg" title="Angular" height="40px" width="40px">
+<img src="icons/nestjs.svg" title="NestJS" height="40px" width="40px">
+<img src="icons/laravel.svg" title="Laravel" height="40px" width="40px">
+<img src="icons/codeigniter.svg" title="CodeIgniter 4" height="40px" width="40px">
 
-<div align="center">
-    <h1>Frameworks</h1>
-    <img src="assets/codeigniter.svg" title="CodeIgniter 4"  width="100" height="100">
-    <img src="assets/angular.svg" title="Angular" width="100" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="assets/bootstrap.svg" title="Bootstrap" width="100" height="90">
-</div>
-<br>
+### Databases
+<img src="icons/mysql.svg" title="MySQL" height="40px" width="40px">
+<img src="icons/mariadb.svg" title="MariaDB" height="40px" width="40px">
+<img src="icons/mongodb.svg" title="MongoDB" height="40px" width="40px">
 
-<div align="center">
-    <h1>Databases</h1>
-    <img src="assets/mysql.svg" title="MySQL" width="100" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="assets/mariadb.svg" title="MariaDB" width="100" height="100">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="assets/mongodb.svg" title="MongoDB" width="100" height="100">
-</div>
-<br>
+### Others
+<img src="icons/bootstrap.svg" title="Bootstrap" height="40px" width="40px">
+<img src="icons/tailwind.svg" title="Tailwind" height="40px" width="40px">
 
-<h1 align="center">Links</h1>
+## 📅 Hobbies
+- Taking a stroll in nature
+- Watch anime
+- Read manga
+- Play videogames
 
+## 📚 Learning
+- Docker
+
+## 🔗 Links
 - [CV on GitHub Pages](https://catdesu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/aeschlimann-david)
 - [GitHub](https://github.com/catdesu) ← You're here !
