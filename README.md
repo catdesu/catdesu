@@ -46,6 +46,7 @@ I speak 🇫🇷 🇬🇧 and a little 🇯🇵
 
 ## 📚 Learning
 - Docker
+- Websocket
 
 ## 🔗 Links
 - [CV on GitHub Pages](https://catdesu.github.io/)
