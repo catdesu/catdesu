@@ -2,12 +2,8 @@
 <h1 align="center">Hey 👋, I'm David</h1>
 <h3 align="center">A 4<sup>th</sup> year software developer apprentice from 🇨🇭</h3>
 
-I like nuclear physics :atom_symbol:, animes :crossed_flags: and video games :video_game: 
-
-I speak 🇫🇷 🇬🇧 and a little 🇯🇵
-
 ## 💬 About me
-### Languages
+### Programming Languages
 <div>
     <img src="icons/html.svg" title="HTML" height="40px" width="40px">
     <img src="icons/css.svg" title="CSS" height="40px" width="40px">
@@ -32,21 +28,29 @@ I speak 🇫🇷 🇬🇧 and a little 🇯🇵
     <img src="icons/mongodb.svg" title="MongoDB" height="40px" width="40px">
 </div>
 
-### Others
+### CSS Frameworks
 <div>
     <img src="icons/bootstrap.svg" title="Bootstrap" height="40px" width="40px">
     <img src="icons/tailwind.svg" title="Tailwind" height="40px" width="40px">
 </div>
 
+### 🗣️ Spoken Languages
+- 🇫🇷 Mother tongue
+- 🇬🇧 C1
+- 🇯🇵 A2
+
 ## 📅 Hobbies
 - Taking a stroll in nature
+- Home workout
 - Watch anime
 - Read manga
 - Play videogames
+- Nuclear physics
 
 ## 📚 Learning
 - Docker
 - Websocket
+- 🇯🇵
 
 ## 🔗 Links
 - [CV on GitHub Pages](https://catdesu.github.io/)
