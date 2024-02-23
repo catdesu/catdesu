@@ -35,9 +35,9 @@
 </div>
 
 ### 🗣️ Spoken Languages
-- 🇫🇷 Mother tongue
-- 🇬🇧 C1
-- 🇯🇵 A2
+- 🇫🇷 French Mother tongue
+- 🇬🇧 English C1
+- 🇯🇵 Japanese A2
 
 ## 📅 Hobbies
 - Taking a stroll in nature
@@ -50,7 +50,7 @@
 ## 📚 Learning
 - Docker
 - Websocket
-- 🇯🇵
+- 🇯🇵 Japanese
 
 ## 🔗 Links
 - [CV on GitHub Pages](https://catdesu.github.io/)
