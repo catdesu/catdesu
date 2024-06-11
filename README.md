@@ -49,7 +49,6 @@
 
 ## 📚 Learning
 - Docker
-- Websocket
 - 🇯🇵 Japanese
 
 ## 🔗 Links
