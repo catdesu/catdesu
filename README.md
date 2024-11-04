@@ -1,6 +1,5 @@
 
 <h1 align="center">Hey 👋, I'm David</h1>
-<h3 align="center">A 4<sup>th</sup> year software developer apprentice from 🇨🇭</h3>
 
 ## 💬 About me
 ### Programming Languages
