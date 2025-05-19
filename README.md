@@ -47,8 +47,6 @@
 - Nuclear physics
 
 ## 📚 Learning
-- OAuth2
-- Docker
 - 🇯🇵 Japanese
 
 ## 🔗 Links
